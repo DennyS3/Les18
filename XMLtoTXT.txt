@@ -1,0 +1,52 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<name>
+
+    <company>TMS</company>
+
+    <value>The First</value>
+
+    <location>belarus</location>
+
+    <employees>
+
+        <employee>
+
+            <name>Denny</name>
+
+            <familia>Somov</familia>
+
+            <professia>Doc</professia>
+
+        </employee>
+
+        <employee>
+
+            <name>Gregoriy</name>
+
+            <familia>Winner</familia>
+
+            <professia>SupMent</professia>
+
+        </employee>
+
+        <employee>
+
+            <name>Roman</name>
+
+            <familia>Rich</familia>
+
+        </employee>
+
+        <employee>
+
+            <name>Grisha</name>
+
+            <professia>manager</professia>
+
+        </employee>
+
+    </employees>
+
+</name>
